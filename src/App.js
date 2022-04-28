@@ -4,8 +4,7 @@ import DragRoutes from "./DragRoutes";
 function App() {
   return (
     <>
-
-    helo
+    <DragRoutes />
     </>
   );
 }
